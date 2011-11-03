@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Widget.TextView" parent="@android:style/Widget.TextView">
+    	<item name="android:textColor">@color/grey</item>
+    	<item name="android:background">@drawable/border</item>
+    	<item name="android:gravity">center_horizontal</item>
+    	</style>
+</resources>
