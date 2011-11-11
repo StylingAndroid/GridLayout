@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <dimen name="border_width">1dp</dimen>
+    <dimen name="text_size_both">18dp</dimen>
     
 </resources>

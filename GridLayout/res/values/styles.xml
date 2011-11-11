@@ -4,5 +4,8 @@
     	<item name="android:textColor">@color/grey</item>
     	<item name="android:background">@drawable/border</item>
     	<item name="android:gravity">center_horizontal</item>
-    	</style>
+    </style>
+    <style name="Widget.TextView.Both" parent="@android:style/Widget.TextView">
+    	<item name="android:textSize">@dimen/text_size_both</item>
+    </style>
 </resources>
